@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+ #!/usr/bin/env python3
 """
 Advanced Automatic IP Changer - Tor IP & Country Changer
 A powerful, non-trackable IP changer compatible with Kali Linux and Windows
@@ -6,7 +6,7 @@ Auto-configures Tor, changes IP and country automatically
 Author: Aryan Chavan
 Version: 3.1.0
 """
-
+pulled 
 import requests
 import time
 import os
